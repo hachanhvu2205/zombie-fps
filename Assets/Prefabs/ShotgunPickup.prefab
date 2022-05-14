@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3886536717379550877
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 417916620, guid: a6558c30fea0d8344a4666bd6d036998, type: 3}
+      propertyPath: ammoType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 711663261, guid: a6558c30fea0d8344a4666bd6d036998, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 004d9166ec5a8524fad9571fd4cd750e, type: 2}
+    - target: {fileID: 3131717780518057864, guid: a6558c30fea0d8344a4666bd6d036998, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3131717780518057864, guid: a6558c30fea0d8344a4666bd6d036998, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.032549
+      objectReference: {fileID: 0}
+    - target: {fileID: 3131717780518057864, guid: a6558c30fea0d8344a4666bd6d036998, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3131717780518057864, guid: a6558c30fea0d8344a4666bd6d036998, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.1837497
+      objectReference: {fileID: 0}
+    - target: {fileID: 3131717780518057864, guid: a6558c30fea0d8344a4666bd6d036998, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3131717780518057864, guid: a6558c30fea0d8344a4666bd6d036998, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3131717780518057864, guid: a6558c30fea0d8344a4666bd6d036998, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3131717780518057864, guid: a6558c30fea0d8344a4666bd6d036998, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3131717780518057864, guid: a6558c30fea0d8344a4666bd6d036998, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3131717780518057864, guid: a6558c30fea0d8344a4666bd6d036998, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3131717780518057864, guid: a6558c30fea0d8344a4666bd6d036998, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3131717780518057867, guid: a6558c30fea0d8344a4666bd6d036998, type: 3}
+      propertyPath: m_Name
+      value: ShotgunPickup
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a6558c30fea0d8344a4666bd6d036998, type: 3}
