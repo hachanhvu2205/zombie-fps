@@ -10,4 +10,5 @@ Zombie first person shooter game made in Unity.
 - Shift to run
 
 ## ASSETS
-Zombie model: https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232
+- Zombie model: https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232
+- All other assets were provided by GameDev.tv
